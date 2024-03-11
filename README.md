@@ -73,14 +73,7 @@ Sara del Carmen Sanches de la Rosa
     <td colspan="1" style="width: 33%; padding-top: 50px;">1 a 2 meses</td>
     <td colspan="1" style="width: 33%; padding-top: 50px;">Tu gato tiene obesidad y esta bien de temperatura y esta desparacitado</td>
   </tr>
-   <tr>
-    <td colspan="1" style="width: 33%; padding-top: 0px;">UwU</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-  </tr>
+
    <tr>
     <td colspan="1" style="width: 33%; padding-top: 0px;">Adulto</td>
     <td colspan="1" style="width: 33%; padding-top: 50px;">Persa</td>
@@ -89,22 +82,7 @@ Sara del Carmen Sanches de la Rosa
     <td colspan="1" style="width: 33%; padding-top: 50px;">2 a 3 meses</td>
     <td colspan="1" style="width: 33%; padding-top: 50px;">Tu gato está bien de peso y esta desparacitado pero se necesita llevarlo a urgencia médica</td>
   </tr>
-   <tr>
-    <td colspan="1" style="width: 33%; padding-top: 0px;">UwU</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-  </tr>
-   <tr>
-    <td colspan="1" style="width: 33%; padding-top: 0px;">UwU</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-    <td colspan="1" style="width: 33%; padding-top: 50px;">Más contenido</td>
-  </tr>
+  
    <tr>
     <td colspan="1" style="width: 33%; padding-top: 0px;">Cachorro</td>
     <td colspan="1" style="width: 33%; padding-top: 50px;">Siames</td>
